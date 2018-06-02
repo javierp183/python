@@ -11,7 +11,7 @@ for i in range(50):
 for i in vector:
     if max == False:
         max = vector[i]
-    else:
+#    else:
         if vector[i] > max:
             max = vector[i]
 
